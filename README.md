@@ -1,4 +1,4 @@
-# DB-Admin
+# DB Admin Tools
 Some Web-based Database Tools
 
 Adminer [Live](https://adminer.now.sh)
